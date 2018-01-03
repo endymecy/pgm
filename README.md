@@ -1,0 +1,2 @@
+# pgm
+Probabilistic Graphical Model
