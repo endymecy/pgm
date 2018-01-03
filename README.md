@@ -1,2 +1,9 @@
-# pgm
-Probabilistic Graphical Model
+# 常见的概率图模型
+
+## 隐马尔科夫模型
+
+[模型介绍](pgm/hmm/%C2%A0分词和HMM.pdf)
+
+## 最大熵模型
+
+## 条件随机场
