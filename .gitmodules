@@ -1,0 +1,3 @@
+[submodule "pgm/hmm/IOHMM"]
+	path = pgm/hmm/IOHMM
+	url = https://github.com/Mogeng/IOHMM
